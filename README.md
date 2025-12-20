@@ -28,6 +28,8 @@ The **ABC Data Platform** centralizes operational, financial, and project data f
 - KPI monitoring
 
 The system is designed for **data accuracy, auditability, and scalability**.
+<img width="1473" height="741" alt="Screenshot 2025-12-19 at 9 48 52 PM" src="https://github.com/user-attachments/assets/e3e65d89-05a4-445b-9590-a888aa5a72fd" />
+
 
 ---
 
@@ -73,6 +75,7 @@ Dashboards & Admin UI
 - Webhook-based task updates
 
 ---
+<img width="913" height="707" alt="Screenshot 2025-12-19 at 9 49 12 PM" src="https://github.com/user-attachments/assets/4e8acffa-8c49-4411-8dfa-b9c27e422876" />
 
 ## ETL Pipelines
 
