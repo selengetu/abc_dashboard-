@@ -1,6 +1,6 @@
 # ABC Data Platform 
 
-Production data platform powering **ABC dashboards, reporting, and integrations**.  
+Production data platform powering Various dashboards, reporting, and integrations**.  
 Built on **Laravel, Supabase, Prefect, and external APIs** to provide reliable, auditable business data.
 
 ---
