@@ -39,6 +39,10 @@ The system is designed for **data accuracy, auditability, and scalability**.
 ↓
 ETL / Sync Layer (Prefect + Python)
 ↓
+Snowflake
+↓
+dbt (Transformation)
+↓
 Supabase (PostgreSQL)
 ↓
 Laravel Application
